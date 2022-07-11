@@ -6,7 +6,8 @@ JavaScript基础语法 + Node.js 内置API模块(fs、path、http等) + 第三�
 
 ## 安装教程
 
-* 安装包可以直接从官网首页下载，进入Node.js官网首页(https://nodejs.org/en/download/),点击绿色的按钮，下载所需的版本后，双击直接安装即可。
+* 安装包可以直接从官网首页下载，进入Node.js官网首页(https://nodejs.org/en/download/)
+    点击绿色的按钮，下载所需的版本后，双击直接安装即可。
 * Node.js 历史版本下载地址：https://nodejs.org/dist/
 * 注意
     * Linux 上安装 Node.js 需要安装 Python 2.6 或 2.7 ，不建议安装 Python 3.0 以上版本。
